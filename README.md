@@ -1,5 +1,5 @@
 ## [Completed Card Generator](https://azuto.github.io/FGO/fgo.html)
-Contains every card frame from Aister's generator. Now including 0☆ and Beast 5☆ frames, Beast class and no class. 
+Contains every card frame from Aister's generator. Now including 0☆ and Beast 5☆ frames, grailed 0☆-5☆, Beast class and no class. 
 
 ## Background
 Forked from Aister's FGO + Canvas project
